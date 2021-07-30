@@ -1,0 +1,43 @@
+.navbar
+{
+    background: black;
+}
+.navbar.navbar-light a
+{
+    color: #fff;   
+}
+.navbar-nav
+{
+    margin-left: 3%;
+}
+.first.container-fluid
+{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.container h3
+{
+    margin-top: 25px;
+}
+
+.card
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.card button
+{
+    margin-bottom: 10px;
+}
+footer
+{
+    margin-top: 40px;
+}
+.p-1
+{
+    margin-left: 100px;
+}
+.p-2
+{
+    margin-left: 900px;
+}
